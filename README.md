@@ -90,4 +90,4 @@ For security reasons, we do not release the constructed datasets. The military c
 
 ## 📬 Contact
 Questions or collaboration ideas are welcome.
-- **Hansle Lee**: hansle.lee@u.nus.edu · [Google Scholar](https://scholar.google.com/citations?user=QP1jmOoAAAAJ) · [LinkedIn](www.linkedin.com/in/hansle-lee-8a750031b)
+- **Hansle Lee**: hansle.lee@u.nus.edu · [Google Scholar](https://scholar.google.com/citations?user=QP1jmOoAAAAJ) · [LinkedIn](https://linkedin.com/in/hanslelee)
