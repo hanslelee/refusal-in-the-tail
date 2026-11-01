@@ -9,7 +9,7 @@
 
 **INLG 2026** · Utrecht, the Netherlands
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](./refusal_in_the_tail.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://2026.inlgmeeting.org/static/proceedings/long/watermarked_pdfs/65.pdf)
 [![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-coming%20soon-lightgrey.svg)](#)
 [![INLG 2026](https://img.shields.io/badge/INLG-2026-blue.svg)](https://2026.inlgmeeting.org/)
 
@@ -18,7 +18,7 @@
 ---
 
 ## 📰 News
-- **[2026-10]** We will present this work as a poster at INLG 2026 in Utrecht. Come say hi!
+- **[2026-10]** Presented our work as a poster at INLG 2026 in Utrecht, the Netherlands.
 - **[2026-08]** *Refusal in the Tail* was accepted to **INLG 2026**.
 
 ## 💡 TL;DR
@@ -73,20 +73,20 @@ Acc. = 1–5 judge score (Military) / exact match % (Medical). Mean over 3 seeds
 | Peer (same-family 7–8B) | 300 / 300 | 44.8 |
 | Self (π<sub>RT</sub>) | 107 / 300 | 14.3 |
 | No-hint | 158 / 300 | 6.4 |
-## 📁 Data Availability
-For security reasons, we do not release the constructed datasets. The military corpus consists of expert-curated simulated reports. The paper's appendices fully document the data-construction pipeline, prompts, and hyperparameters to support reproduction.
 
 ## 📝 Citation
 ```bibtex
 @inproceedings{lee-etal-2026-refusal,
   title     = {Refusal in the Tail: Surfacing Latent Abstention for Context-Refuted Queries},
   author    = {Lee, Hansle and Jang, Jaeeun and Kim, Sangmin},
-  booktitle = {Proceedings of the 19th International Natural Language Generation Conference},
+  booktitle = {Proceedings of the 19th International Natural Language Generation Conference: Long Papers},
+  pages     = {1163--1186},
   year      = {2026},
-  note      = {To appear}
+  month     = oct,
+  publisher = {Association for Computational Linguistics},
+  url       = {https://2026.inlgmeeting.org/static/proceedings/long/watermarked_pdfs/65.pdf}
 }
 ```
-*The official BibTeX will be updated once the ACL Anthology entry is live.*
 
 ## 📬 Contact
 Questions or collaboration ideas are welcome.
